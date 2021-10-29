@@ -1,10 +1,13 @@
 *.bundle
 *.gem
 *.so
+*.o
 .bundle
+.idea/
 .yardoc/
 doc/
 Gemfile.lock
+mkmf.log
 pkg/*
 ports/
 test.rb
